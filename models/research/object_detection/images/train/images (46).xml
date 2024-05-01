@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>images (46).jpg</filename>
+	<path>C:\Users\Debjani\Anaconda3\Tensorflow\addons\labelImg\images\train\images (46).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gloves</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>343</xmin>
+			<ymin>125</ymin>
+			<xmax>585</xmax>
+			<ymax>474</ymax>
+		</bndbox>
+	</object>
+</annotation>

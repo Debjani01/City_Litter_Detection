@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>stock-photo-outdoors-water-sea-lake-pollution-waste-bag-shore-trash-9e73334a-7c42-43da-9280-49d1e8bb35ae.jpg</filename>
+	<path>C:\Users\Debjani\Anaconda3\Tensorflow\addons\labelImg\images\test\stock-photo-outdoors-water-sea-lake-pollution-waste-bag-shore-trash-9e73334a-7c42-43da-9280-49d1e8bb35ae.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>346</xmin>
+			<ymin>156</ymin>
+			<xmax>673</xmax>
+			<ymax>434</ymax>
+		</bndbox>
+	</object>
+</annotation>

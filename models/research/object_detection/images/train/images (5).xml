@@ -1,0 +1,50 @@
+<annotation>
+	<folder>train</folder>
+	<filename>images (5).jpg</filename>
+	<path>C:\Users\Debjani\Anaconda3\Tensorflow\addons\labelImg\images\train\images (5).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gloves</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>584</xmin>
+			<ymin>313</ymin>
+			<xmax>728</xmax>
+			<ymax>488</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>gloves</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>154</xmin>
+			<ymin>364</ymin>
+			<xmax>263</xmax>
+			<ymax>477</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>gloves</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>256</xmin>
+			<ymin>272</ymin>
+			<xmax>420</xmax>
+			<ymax>389</ymax>
+		</bndbox>
+	</object>
+</annotation>

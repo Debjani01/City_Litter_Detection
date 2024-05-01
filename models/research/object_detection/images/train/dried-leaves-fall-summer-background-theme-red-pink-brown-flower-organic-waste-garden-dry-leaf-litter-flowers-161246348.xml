@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test_image</folder>
+	<filename>dried-leaves-fall-summer-background-theme-red-pink-brown-flower-organic-waste-garden-dry-leaf-litter-flowers-161246348.jpg</filename>
+	<path>C:\Users\Debjani\Anaconda3\Tensorflow\addons\labelImg\test_image\dried-leaves-fall-summer-background-theme-red-pink-brown-flower-organic-waste-garden-dry-leaf-litter-flowers-161246348.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>flowers</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>2</ymin>
+			<xmax>800</xmax>
+			<ymax>600</ymax>
+		</bndbox>
+	</object>
+</annotation>

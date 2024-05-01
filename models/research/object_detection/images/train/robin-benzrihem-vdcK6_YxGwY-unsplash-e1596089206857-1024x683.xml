@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new</folder>
+	<filename>robin-benzrihem-vdcK6_YxGwY-unsplash-e1596089206857-1024x683.jpg</filename>
+	<path>C:\Users\Debjani\Anaconda3\Tensorflow\addons\labelImg\test_image\new\robin-benzrihem-vdcK6_YxGwY-unsplash-e1596089206857-1024x683.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>128</ymin>
+			<xmax>708</xmax>
+			<ymax>484</ymax>
+		</bndbox>
+	</object>
+</annotation>

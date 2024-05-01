@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test_image</folder>
+	<filename>depositphotos_73122957-stock-photo-cardboard-box-on-the-street.jpg</filename>
+	<path>C:\Users\Debjani\Anaconda3\Tensorflow\addons\labelImg\test_image\depositphotos_73122957-stock-photo-cardboard-box-on-the-street.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cardboard</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>94</ymin>
+			<xmax>680</xmax>
+			<ymax>536</ymax>
+		</bndbox>
+	</object>
+</annotation>

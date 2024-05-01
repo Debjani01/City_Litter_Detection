@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new</folder>
+	<filename>metal233.jpg</filename>
+	<path>C:\Users\Debjani\Anaconda3\Tensorflow\addons\labelImg\images\new\metal233.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>can</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>157</xmin>
+			<ymin>143</ymin>
+			<xmax>794</xmax>
+			<ymax>471</ymax>
+		</bndbox>
+	</object>
+</annotation>

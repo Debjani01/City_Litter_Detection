@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>download1.jpg</filename>
+	<path>C:\Users\Debjani\Anaconda3\Tensorflow\addons\labelImg\images\train\download1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>can</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>233</xmin>
+			<ymin>148</ymin>
+			<xmax>606</xmax>
+			<ymax>496</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>90833597-smoked-cigarette-butt-on-ground.jpg</filename>
+	<path>C:\Users\Debjani\Anaconda3\Tensorflow\addons\labelImg\images\train\90833597-smoked-cigarette-butt-on-ground.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>burned_cigarette</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>172</xmin>
+			<ymin>267</ymin>
+			<xmax>602</xmax>
+			<ymax>361</ymax>
+		</bndbox>
+	</object>
+</annotation>

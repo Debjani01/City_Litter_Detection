@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test_image</folder>
+	<filename>can-of-aluminium-or-aluminum-hype-maximum-energy-drink-laying-discarded-F60DN6.jpg</filename>
+	<path>C:\Users\Debjani\Anaconda3\Tensorflow\addons\labelImg\test_image\can-of-aluminium-or-aluminum-hype-maximum-energy-drink-laying-discarded-F60DN6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>can</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>432</xmin>
+			<ymin>166</ymin>
+			<xmax>648</xmax>
+			<ymax>430</ymax>
+		</bndbox>
+	</object>
+</annotation>

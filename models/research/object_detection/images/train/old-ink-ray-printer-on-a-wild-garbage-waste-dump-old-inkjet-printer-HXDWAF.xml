@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test_data</folder>
+	<filename>old-ink-ray-printer-on-a-wild-garbage-waste-dump-old-inkjet-printer-HXDWAF.jpg</filename>
+	<path>C:\Users\Debjani\Anaconda3\Tensorflow\addons\labelImg\test_data\old-ink-ray-printer-on-a-wild-garbage-waste-dump-old-inkjet-printer-HXDWAF.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>printer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>83</xmin>
+			<ymin>16</ymin>
+			<xmax>688</xmax>
+			<ymax>567</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new</folder>
+	<filename>131202152052-wcrevihuto-e-waste-photo-e1529509772424.jpg</filename>
+	<path>C:\Users\Debjani\Anaconda3\Tensorflow\addons\labelImg\images\new\new\131202152052-wcrevihuto-e-waste-photo-e1529509772424.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tv_pc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>453</xmin>
+			<ymin>265</ymin>
+			<xmax>615</xmax>
+			<ymax>418</ymax>
+		</bndbox>
+	</object>
+</annotation>

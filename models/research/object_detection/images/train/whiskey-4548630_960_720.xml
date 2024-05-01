@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>whiskey-4548630_960_720.jpg</filename>
+	<path>C:\Users\Debjani\Anaconda3\Tensorflow\addons\labelImg\images\train\whiskey-4548630_960_720.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>184</xmin>
+			<ymin>109</ymin>
+			<xmax>566</xmax>
+			<ymax>588</ymax>
+		</bndbox>
+	</object>
+</annotation>

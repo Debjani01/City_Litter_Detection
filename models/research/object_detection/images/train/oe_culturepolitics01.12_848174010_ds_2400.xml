@@ -1,0 +1,14 @@
+<annotation>
+	<folder>train</folder>
+	<filename>oe_culturepolitics01.12_848174010_ds_2400.jpg</filename>
+	<path>C:\Users\Debjani\Anaconda3\Tensorflow\addons\labelImg\images\train\oe_culturepolitics01.12_848174010_ds_2400.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

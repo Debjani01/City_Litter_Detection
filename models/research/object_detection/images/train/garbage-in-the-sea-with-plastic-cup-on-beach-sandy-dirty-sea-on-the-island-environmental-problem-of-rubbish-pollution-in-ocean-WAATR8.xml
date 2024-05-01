@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>garbage-in-the-sea-with-plastic-cup-on-beach-sandy-dirty-sea-on-the-island-environmental-problem-of-rubbish-pollution-in-ocean-WAATR8.jpg</filename>
+	<path>C:\Users\Debjani\Anaconda3\Tensorflow\addons\labelImg\images\train\garbage-in-the-sea-with-plastic-cup-on-beach-sandy-dirty-sea-on-the-island-environmental-problem-of-rubbish-pollution-in-ocean-WAATR8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>152</xmin>
+			<ymin>170</ymin>
+			<xmax>460</xmax>
+			<ymax>410</ymax>
+		</bndbox>
+	</object>
+</annotation>

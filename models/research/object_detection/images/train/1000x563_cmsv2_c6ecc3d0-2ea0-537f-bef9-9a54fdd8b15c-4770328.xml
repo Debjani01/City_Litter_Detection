@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>1000x563_cmsv2_c6ecc3d0-2ea0-537f-bef9-9a54fdd8b15c-4770328.jpg</filename>
+	<path>C:\Users\Debjani\Anaconda3\Tensorflow\addons\labelImg\images\train\1000x563_cmsv2_c6ecc3d0-2ea0-537f-bef9-9a54fdd8b15c-4770328.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>328</xmin>
+			<ymin>247</ymin>
+			<xmax>796</xmax>
+			<ymax>440</ymax>
+		</bndbox>
+	</object>
+</annotation>

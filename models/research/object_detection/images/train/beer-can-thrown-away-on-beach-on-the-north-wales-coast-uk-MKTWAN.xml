@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>beer-can-thrown-away-on-beach-on-the-north-wales-coast-uk-MKTWAN.jpg</filename>
+	<path>C:\Users\Debjani\Anaconda3\Tensorflow\addons\labelImg\images\train\beer-can-thrown-away-on-beach-on-the-north-wales-coast-uk-MKTWAN.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>can</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>340</xmin>
+			<ymin>278</ymin>
+			<xmax>424</xmax>
+			<ymax>395</ymax>
+		</bndbox>
+	</object>
+</annotation>

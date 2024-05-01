@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test_image</folder>
+	<filename>weed-growing-pavement-next-litter-260nw-1146571364.jpg</filename>
+	<path>C:\Users\Debjani\Anaconda3\Tensorflow\addons\labelImg\test_image\weed-growing-pavement-next-litter-260nw-1146571364.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>paper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>119</xmin>
+			<ymin>20</ymin>
+			<xmax>400</xmax>
+			<ymax>191</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,2 @@
+burned cigarette 0.94075197 264 418 422 480
+burned cigarette 0.9075046 336 292 481 345

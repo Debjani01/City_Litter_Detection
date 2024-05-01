@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>78545_AFP_000_1QY9AH_facemask_1589174371633.jpg</filename>
+	<path>C:\Users\Debjani\Anaconda3\Tensorflow\addons\labelImg\images\train\78545_AFP_000_1QY9AH_facemask_1589174371633.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>306</xmin>
+			<ymin>74</ymin>
+			<xmax>669</xmax>
+			<ymax>524</ymax>
+		</bndbox>
+	</object>
+</annotation>

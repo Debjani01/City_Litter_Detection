@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new</folder>
+	<filename>kitchen-household-food-and-garden-waste-on-a-compost-heap-EXK04E.jpg</filename>
+	<path>C:\Users\Debjani\Anaconda3\Tensorflow\addons\labelImg\images\new_1\new\kitchen-household-food-and-garden-waste-on-a-compost-heap-EXK04E.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vegetation</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>108</xmin>
+			<ymin>66</ymin>
+			<xmax>730</xmax>
+			<ymax>600</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new</folder>
+	<filename>istockphoto-905480508-1024x1024.jpg</filename>
+	<path>C:\Users\Debjani\Anaconda3\Tensorflow\addons\labelImg\images\new_1\new\istockphoto-905480508-1024x1024.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vegetation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>15</ymin>
+			<xmax>737</xmax>
+			<ymax>579</ymax>
+		</bndbox>
+	</object>
+</annotation>

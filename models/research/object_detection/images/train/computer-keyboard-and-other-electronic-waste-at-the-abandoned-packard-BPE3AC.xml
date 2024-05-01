@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new</folder>
+	<filename>computer-keyboard-and-other-electronic-waste-at-the-abandoned-packard-BPE3AC.jpg</filename>
+	<path>C:\Users\Debjani\Anaconda3\Tensorflow\addons\labelImg\images\new\computer-keyboard-and-other-electronic-waste-at-the-abandoned-packard-BPE3AC.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>keyboard</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>168</xmin>
+			<ymin>55</ymin>
+			<xmax>720</xmax>
+			<ymax>532</ymax>
+		</bndbox>
+	</object>
+</annotation>

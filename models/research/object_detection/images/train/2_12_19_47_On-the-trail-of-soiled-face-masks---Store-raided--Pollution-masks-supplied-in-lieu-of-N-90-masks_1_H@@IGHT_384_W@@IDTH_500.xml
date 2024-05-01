@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new</folder>
+	<filename>2_12_19_47_On-the-trail-of-soiled-face-masks---Store-raided--Pollution-masks-supplied-in-lieu-of-N-90-masks_1_H@@IGHT_384_W@@IDTH_500.jpg</filename>
+	<path>C:\Users\Debjani\Anaconda3\Tensorflow\addons\labelImg\test_image\new\2_12_19_47_On-the-trail-of-soiled-face-masks---Store-raided--Pollution-masks-supplied-in-lieu-of-N-90-masks_1_H@@IGHT_384_W@@IDTH_500.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>65</ymin>
+			<xmax>800</xmax>
+			<ymax>502</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new</folder>
+	<filename>green-leaf-on-ground-jeffrey-platt.jpg</filename>
+	<path>C:\Users\Debjani\Anaconda3\Tensorflow\addons\labelImg\images\new\green-leaf-on-ground-jeffrey-platt.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>148</xmin>
+			<ymin>24</ymin>
+			<xmax>487</xmax>
+			<ymax>561</ymax>
+		</bndbox>
+	</object>
+</annotation>

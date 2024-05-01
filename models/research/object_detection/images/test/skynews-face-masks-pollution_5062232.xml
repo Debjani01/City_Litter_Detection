@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>skynews-face-masks-pollution_5062232.jpg</filename>
+	<path>C:\Users\Debjani\Anaconda3\Tensorflow\addons\labelImg\images\test\skynews-face-masks-pollution_5062232.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>179</xmin>
+			<ymin>102</ymin>
+			<xmax>538</xmax>
+			<ymax>425</ymax>
+		</bndbox>
+	</object>
+</annotation>

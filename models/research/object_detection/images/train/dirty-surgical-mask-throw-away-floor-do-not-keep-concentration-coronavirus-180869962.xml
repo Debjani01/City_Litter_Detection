@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new</folder>
+	<filename>dirty-surgical-mask-throw-away-floor-do-not-keep-concentration-coronavirus-180869962.jpg</filename>
+	<path>C:\Users\Debjani\Anaconda3\Tensorflow\addons\labelImg\test_image\new\dirty-surgical-mask-throw-away-floor-do-not-keep-concentration-coronavirus-180869962.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>184</xmin>
+			<ymin>122</ymin>
+			<xmax>671</xmax>
+			<ymax>541</ymax>
+		</bndbox>
+	</object>
+</annotation>

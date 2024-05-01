@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test_data</folder>
+	<filename>NWDHFGSSTJCGTCIXRPABU6STHY.jpg</filename>
+	<path>C:\Users\Debjani\Anaconda3\Tensorflow\addons\labelImg\test_data\NWDHFGSSTJCGTCIXRPABU6STHY.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gloves</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>324</xmin>
+			<ymin>206</ymin>
+			<xmax>733</xmax>
+			<ymax>456</ymax>
+		</bndbox>
+	</object>
+</annotation>

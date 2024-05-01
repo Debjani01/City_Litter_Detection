@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new</folder>
+	<filename>800px_COLOURBOX1765190.jpg</filename>
+	<path>C:\Users\Debjani\Anaconda3\Tensorflow\addons\labelImg\images\new\800px_COLOURBOX1765190.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>48</ymin>
+			<xmax>454</xmax>
+			<ymax>410</ymax>
+		</bndbox>
+	</object>
+</annotation>

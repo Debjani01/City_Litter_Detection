@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new</folder>
+	<filename>images (5).jpg</filename>
+	<path>C:\Users\Debjani\Anaconda3\Tensorflow\addons\labelImg\images\new\images (5).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>388</xmin>
+			<ymin>277</ymin>
+			<xmax>636</xmax>
+			<ymax>459</ymax>
+		</bndbox>
+	</object>
+</annotation>

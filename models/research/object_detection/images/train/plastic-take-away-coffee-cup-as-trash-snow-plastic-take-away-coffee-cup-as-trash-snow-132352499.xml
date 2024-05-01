@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new</folder>
+	<filename>plastic-take-away-coffee-cup-as-trash-snow-plastic-take-away-coffee-cup-as-trash-snow-132352499.jpg</filename>
+	<path>C:\Users\Debjani\Anaconda3\Tensorflow\addons\labelImg\images\new\plastic-take-away-coffee-cup-as-trash-snow-plastic-take-away-coffee-cup-as-trash-snow-132352499.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>443</xmin>
+			<ymin>174</ymin>
+			<xmax>654</xmax>
+			<ymax>331</ymax>
+		</bndbox>
+	</object>
+</annotation>

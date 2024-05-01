@@ -1,0 +1,38 @@
+<annotation>
+	<folder>need to add in train</folder>
+	<filename>battery-environmental-pollution-GKN90E.jpg</filename>
+	<path>C:\Users\Debjani\Anaconda3\Tensorflow\addons\labelImg\test_data\need to add in train\battery-environmental-pollution-GKN90E.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>battery</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>195</xmin>
+			<ymin>42</ymin>
+			<xmax>337</xmax>
+			<ymax>528</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>330</xmin>
+			<ymin>353</ymin>
+			<xmax>505</xmax>
+			<ymax>547</ymax>
+		</bndbox>
+	</object>
+</annotation>

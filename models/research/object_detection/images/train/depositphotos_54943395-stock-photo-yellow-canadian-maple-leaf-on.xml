@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new</folder>
+	<filename>depositphotos_54943395-stock-photo-yellow-canadian-maple-leaf-on.jpg</filename>
+	<path>C:\Users\Debjani\Anaconda3\Tensorflow\addons\labelImg\images\new\depositphotos_54943395-stock-photo-yellow-canadian-maple-leaf-on.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>181</xmin>
+			<ymin>50</ymin>
+			<xmax>589</xmax>
+			<ymax>557</ymax>
+		</bndbox>
+	</object>
+</annotation>

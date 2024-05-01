@@ -1,0 +1,50 @@
+<annotation>
+	<folder>need to add in train</folder>
+	<filename>people-littering-garbage-used-surgical-masks-throw-crevices-bushes-hazardous-waste-risk-disease-spread-172718411.jpg</filename>
+	<path>C:\Users\Debjani\Anaconda3\Tensorflow\addons\labelImg\test_data\need to add in train\people-littering-garbage-used-surgical-masks-throw-crevices-bushes-hazardous-waste-risk-disease-spread-172718411.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>545</xmin>
+			<ymin>242</ymin>
+			<xmax>800</xmax>
+			<ymax>535</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>412</xmin>
+			<ymin>162</ymin>
+			<xmax>613</xmax>
+			<ymax>307</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>617</xmin>
+			<ymin>169</ymin>
+			<xmax>757</xmax>
+			<ymax>273</ymax>
+		</bndbox>
+	</object>
+</annotation>

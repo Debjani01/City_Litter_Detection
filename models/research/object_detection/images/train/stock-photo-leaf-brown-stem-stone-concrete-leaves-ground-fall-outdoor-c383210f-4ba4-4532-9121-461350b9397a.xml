@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new</folder>
+	<filename>stock-photo-leaf-brown-stem-stone-concrete-leaves-ground-fall-outdoor-c383210f-4ba4-4532-9121-461350b9397a.jpg</filename>
+	<path>C:\Users\Debjani\Anaconda3\Tensorflow\addons\labelImg\images\new\stock-photo-leaf-brown-stem-stone-concrete-leaves-ground-fall-outdoor-c383210f-4ba4-4532-9121-461350b9397a.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>71</xmin>
+			<ymin>187</ymin>
+			<xmax>746</xmax>
+			<ymax>596</ymax>
+		</bndbox>
+	</object>
+</annotation>

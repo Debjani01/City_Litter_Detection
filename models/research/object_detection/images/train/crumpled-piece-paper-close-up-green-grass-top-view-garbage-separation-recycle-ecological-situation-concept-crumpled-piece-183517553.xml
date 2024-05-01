@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test_image</folder>
+	<filename>crumpled-piece-paper-close-up-green-grass-top-view-garbage-separation-recycle-ecological-situation-concept-crumpled-piece-183517553.jpg</filename>
+	<path>C:\Users\Debjani\Anaconda3\Tensorflow\addons\labelImg\test_image\crumpled-piece-paper-close-up-green-grass-top-view-garbage-separation-recycle-ecological-situation-concept-crumpled-piece-183517553.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>paper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>193</xmin>
+			<ymin>128</ymin>
+			<xmax>534</xmax>
+			<ymax>502</ymax>
+		</bndbox>
+	</object>
+</annotation>

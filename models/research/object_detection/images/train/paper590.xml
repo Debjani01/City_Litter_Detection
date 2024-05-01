@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new</folder>
+	<filename>paper590.jpg</filename>
+	<path>C:\Users\Debjani\Anaconda3\Tensorflow\addons\labelImg\images\new\paper590.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plastic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>137</xmin>
+			<ymin>61</ymin>
+			<xmax>672</xmax>
+			<ymax>503</ymax>
+		</bndbox>
+	</object>
+</annotation>

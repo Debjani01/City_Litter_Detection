@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new</folder>
+	<filename>scattered-litter-on-the-pavement-london-england-EPDH71.jpg</filename>
+	<path>C:\Users\Debjani\Anaconda3\Tensorflow\addons\labelImg\images\new\scattered-litter-on-the-pavement-london-england-EPDH71.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>paper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>362</xmin>
+			<ymin>484</ymin>
+			<xmax>519</xmax>
+			<ymax>593</ymax>
+		</bndbox>
+	</object>
+</annotation>

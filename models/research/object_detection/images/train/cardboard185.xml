@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new</folder>
+	<filename>cardboard185.jpg</filename>
+	<path>C:\Users\Debjani\Anaconda3\Tensorflow\addons\labelImg\images\new\cardboard185.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cardboard</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>84</ymin>
+			<xmax>693</xmax>
+			<ymax>554</ymax>
+		</bndbox>
+	</object>
+</annotation>

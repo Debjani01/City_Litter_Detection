@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new</folder>
+	<filename>single-fallen-old-leaf-at-grassy-ground-leaf-litter-at-autumn-closeup-E62XER.jpg</filename>
+	<path>C:\Users\Debjani\Anaconda3\Tensorflow\addons\labelImg\images\new\single-fallen-old-leaf-at-grassy-ground-leaf-litter-at-autumn-closeup-E62XER.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>187</xmin>
+			<ymin>194</ymin>
+			<xmax>557</xmax>
+			<ymax>476</ymax>
+		</bndbox>
+	</object>
+</annotation>

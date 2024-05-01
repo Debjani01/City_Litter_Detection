@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>mask_for_web_postpng.jpg</filename>
+	<path>C:\Users\Debjani\Anaconda3\Tensorflow\addons\labelImg\images\test\mask_for_web_postpng.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>251</xmin>
+			<ymin>194</ymin>
+			<xmax>704</xmax>
+			<ymax>492</ymax>
+		</bndbox>
+	</object>
+</annotation>

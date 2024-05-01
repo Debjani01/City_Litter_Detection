@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new</folder>
+	<filename>carlsberg-special-brew-can-abandoned-in-the-park-DA4MG8.jpg</filename>
+	<path>C:\Users\Debjani\Anaconda3\Tensorflow\addons\labelImg\images\new\carlsberg-special-brew-can-abandoned-in-the-park-DA4MG8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>can</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>177</xmin>
+			<ymin>62</ymin>
+			<xmax>599</xmax>
+			<ymax>503</ymax>
+		</bndbox>
+	</object>
+</annotation>

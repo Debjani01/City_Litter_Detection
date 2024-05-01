@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new</folder>
+	<filename>dc-Cover-0u6r8t3eevqlcooid43sg0ofb0-20180127024227Medi.jpg</filename>
+	<path>C:\Users\Debjani\Anaconda3\Tensorflow\addons\labelImg\images\new\new\dc-Cover-0u6r8t3eevqlcooid43sg0ofb0-20180127024227Medi.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tv_pc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>246</xmin>
+			<ymin>341</ymin>
+			<xmax>408</xmax>
+			<ymax>495</ymax>
+		</bndbox>
+	</object>
+</annotation>

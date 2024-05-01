@@ -1,0 +1,2 @@
+burned_cigarette 0.9826518 330 292 484 344
+burned_cigarette 0.94370353 264 420 421 481
